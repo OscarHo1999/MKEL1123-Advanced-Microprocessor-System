@@ -22,7 +22,9 @@ UTM Master MKEL1123 Advanced Microprocessor System
 3. Delay = 1000ms
 
 
-https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/11490fa8-10da-4b70-b37f-670da1069dc3
+https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/6b165564-cae9-4db3-919d-dac5bf32c46c
+
+
 
 
 
