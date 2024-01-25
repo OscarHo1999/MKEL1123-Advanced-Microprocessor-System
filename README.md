@@ -32,13 +32,14 @@ Laptop output | Board Pinout
 ------------ | -------------
 USB | USART
 
-![image](https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/c487ea20-42fa-4647-aa73-d9a68cca3bd9)
+
+![image](https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/461fa807-8fdc-47c4-8ad6-d18efc94c5d3)
 To train and validate the model onto the board, we are use STM32CubeIDE in conjunction with the STM32 X-Cube-AI tools. The STM32 X-CUBE-AI bundle within the IDE's libraries and plugins. Models trained with TensorFlow, Keras, etc. are supported. With the tools, we can code the microcontroller to do inference—that is, our image recognition for digit numbers—after loading the learned model into it. After setting up the model, we can apply the MNIST model to CubeAI and produce code using the model framework. The MNIST database has also been generated for the project.
 
 ![image](https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/427b4c01-f46f-490a-81b7-a85d45c297b6)
 The trained model in our study uses the MNIST dataset to construct a digit recognition system. We must train the model into our board by utilizing the pre-trained model. To make sure the board has adequate flash to support the model, we must examine the model before we can begin training it.
 
-![image](https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/f2be6eac-959f-4569-ab26-a01f8535794e)
+![image](https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/c42811b5-39d3-47dd-b8c2-cd4d086ee440)
 We have validated the model to make sure it can be used in the board by connecting the board to the laptop.
 
 
