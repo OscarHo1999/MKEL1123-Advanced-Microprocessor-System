@@ -5,6 +5,8 @@
     * [MNIST Dataset](#MNIST-Dataset)
     * [Hardware](#Hardware "Goto Hardware")
     * [Software](#Software)
+* [Pinout & Configuration](#pinout-and-configuration)
+ 
      
 
 
@@ -24,10 +26,11 @@ In this project, the dataset that we used is MNIST dataset. MNIST, which is Modi
 * [STM32 Cube IDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 * [CMSIS NN Library](https://www.keil.com/pack/doc/cmsis/NN/html/index.html)
 
+## Pinout and Configuration
 
-
-
-
+Laptop output | Board Pinout
+------------ | -------------
+USB | USART
 
 
 
