@@ -3,8 +3,8 @@
 
 * [Introduction](#Introduction "Goto Introduction")
     * [MNIST Dataset](#MNIST-Dataset)
-	  * [Hardware](#Hardware "Goto Hardware")
-	  * [Software](#Software)
+    * [Hardware](#Hardware "Goto Hardware")
+    * [Software](#Software)
      
 
 
@@ -15,7 +15,7 @@
 ### MNIST Dataset
 
 <p align="center">
-  <img width="460" width="500" src="![image](https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/b047e184-67ba-41c1-b041-4e39e2a7d39e)">
+  <img width="460" width="500" src="(https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/b047e184-67ba-41c1-b041-4e39e2a7d39e)">
 </p>
 In this project, the dataset that we used is MNIST dataset. MNIST, which is Modified National Institute of Standards and Technology database, consisting a collection of 70,000 28x28 pixels images of handwritten digits from 0 to 9. There are 60,000 training examples and 10,000 testing examples.
 
