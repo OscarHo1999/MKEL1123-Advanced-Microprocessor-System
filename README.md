@@ -6,6 +6,7 @@
     * [Hardware](#Hardware "Goto Hardware")
     * [Software](#Software)
 * [Pinout & Configuration](#pinout-and-configuration)
+* [Demo](#Demo)
  
      
 
@@ -43,8 +44,8 @@ The trained model in our study uses the MNIST dataset to construct a digit recog
 ![image](https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/c42811b5-39d3-47dd-b8c2-cd4d086ee440)
 We have validated the model to make sure it can be used in the board by connecting the board to the laptop.
 
-
-
+## Demo
+https://www.youtube.com/watch?v=o2ZYKW1QUFc
 
 
 
