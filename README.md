@@ -42,7 +42,10 @@ To train and validate the model onto the board, we are use STM32CubeIDE in conju
 The trained model in our study uses the MNIST dataset to construct a digit recognition system. We must train the model into our board by utilizing the pre-trained model. To make sure the board has adequate flash to support the model, we must examine the model before we can begin training it.
 
 ![image](https://github.com/OscarHo1999/MKEL1123-Advanced-Microprocessor-System/assets/67437888/c42811b5-39d3-47dd-b8c2-cd4d086ee440)
-We have validated the model to make sure it can be used in the board by connecting the board to the laptop.
+We have validated the model to make sure it can be used in the board by connecting the board to the laptop. 
+
+Following the necessary computation and forecast, the outcome will be displayed via the LED (PA5). Following the simulation, the LED is on when digit "1" is utilized as the input. After the simulation, the LED will blink twice using digit "2" as the input.
+
 
 ## Demo
 https://www.youtube.com/watch?v=o2ZYKW1QUFc
